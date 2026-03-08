@@ -64,6 +64,11 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ VerificacaoAprovacaoSimplificada.java
 │   ├── ☕ VerificacaoNumeroPar.java
 │   └── ☕ VerificadorMes.java
+├── 📁 14 - Loops
+│   ├── ☕ CarterinhaConvenio.java
+│   ├── ☕ ContagemDoces.java
+│   ├── ☕ SomaNumerosInteirosPositivos.java
+│   └── ☕ SomaValoresAcumulados.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
