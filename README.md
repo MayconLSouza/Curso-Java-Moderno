@@ -47,6 +47,16 @@ O repositório está organizado seguindo a progressão dos conteúdos
 apresentados no curso. Cada pasta contém **projetos, exercícios resolvidos e exemplos práticos**
 desenvolvidos ao longo das aulas.
 
+```
+├── 📁 11 - Fundamentos da Programação Java
+│   ├── ☕ CalculadoraAreaRetangulo.java
+│   ├── ☕ ControleEstoquePadaria.java
+│   └── ☕ PromocaoAutomatica.java
+├── ⚙️ .gitignore
+├── 📄 LICENSE
+└── 📝 README.md
+```
+
 
 ------------------------------------------------------------------------
 
