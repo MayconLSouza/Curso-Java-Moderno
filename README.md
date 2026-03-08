@@ -57,6 +57,13 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ IncrementoDecremento.java
 │   ├── ☕ OperadoresAtribuicaoExercicio.java
 │   └── ☕ PrecedenciaOperadoresAtribuicao.java
+├── 📁 13 - Controles de Fluxo
+│   ├── ☕ DiasNoMes.java
+│   ├── ☕ NivelSatisfacao.java
+│   ├── ☕ VerificacaoAprovacaoNotasPresenca.java
+│   ├── ☕ VerificacaoAprovacaoSimplificada.java
+│   ├── ☕ VerificacaoNumeroPar.java
+│   └── ☕ VerificadorMes.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
