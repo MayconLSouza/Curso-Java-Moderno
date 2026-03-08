@@ -52,6 +52,11 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ CalculadoraAreaRetangulo.java
 │   ├── ☕ ControleEstoquePadaria.java
 │   └── ☕ PromocaoAutomatica.java
+├── 📁 12 - Operadores
+│   ├── ☕ CalculadoraSimples.java
+│   ├── ☕ IncrementoDecremento.java
+│   ├── ☕ OperadoresAtribuicaoExercicio.java
+│   └── ☕ PrecedenciaOperadoresAtribuicao.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
