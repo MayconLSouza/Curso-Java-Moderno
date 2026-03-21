@@ -76,6 +76,10 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ Pessoa.java
 │   ├── ☕ Produto.java
 │   └── ☕ SalaDeAula.java
+├── 📁 16 - Arrays
+│   ├── ☕ NotasDosAlunos.java
+│   ├── ☕ NumerosPares.java
+│   └── ☕ SomaDeNumeros.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
