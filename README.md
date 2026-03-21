@@ -80,6 +80,10 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ NotasDosAlunos.java
 │   ├── ☕ NumerosPares.java
 │   └── ☕ SomaDeNumeros.java
+├── 📁 17 - Herança
+│   ├── ☕ TesteHeranca.java
+│   ├── ☕ TestePessoa.java
+│   └── ☕ TesteVeiculo.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
