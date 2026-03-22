@@ -88,6 +88,10 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ TestDeprecated.java
 │   ├── ☕ TestOverride.java
 │   └── ☕ TestSuppressWarnings.java
+├── 📁 19 - Imutabilidade
+│   ├── ☕ TestFinalClass.java
+│   ├── ☕ TestFinalMethods.java
+│   └── ☕ TestFinalVariables.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
