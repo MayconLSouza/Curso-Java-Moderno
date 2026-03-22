@@ -84,6 +84,10 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ TesteHeranca.java
 │   ├── ☕ TestePessoa.java
 │   └── ☕ TesteVeiculo.java
+├── 📁 18 - Annotations
+│   ├── ☕ TestDeprecated.java
+│   ├── ☕ TestOverride.java
+│   └── ☕ TestSuppressWarnings.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
