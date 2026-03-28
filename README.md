@@ -96,6 +96,9 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ PedidoRestaurante.java
 │   ├── ☕ Produto.java
 │   └── ☕ Veiculo.java
+├── 📁 21 - Classes Abstratas
+│   ├── ☕ FiguraGeometrica.java
+│   └── ☕ Loja.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
