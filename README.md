@@ -102,6 +102,9 @@ desenvolvidos ao longo das aulas.
 ├── 📁 22 - Polimorfismo
 │   ├── ☕ Calculadora.java
 │   └── ☕ GerenciadorVeiculos.java
+├── 📁 23 - Generics
+│   ├── ☕ CaixaTest.java
+│   └── ☕ CestoTest.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
