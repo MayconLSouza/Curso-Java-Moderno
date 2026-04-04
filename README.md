@@ -109,6 +109,9 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ ListExercise.java
 │   ├── ☕ MapExercise.java
 │   └── ☕ SetExercise.java
+├── 📁 25 - Exceptions
+│   ├── ☕ ExemploArrayIndexOutOfBoundsException.java
+│   └── ☕ ExemploNullPointerExceptionInteger.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
