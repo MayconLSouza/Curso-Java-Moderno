@@ -115,6 +115,8 @@ desenvolvidos ao longo das aulas.
 ├── 📁 26 - Expressões Lambda
 │   ├── ☕ LambdaList.java
 │   └── ☕ LambdaSet.java
+├── 📁 27 - Programação Funcional
+│   └── ☕ Calculadora.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
