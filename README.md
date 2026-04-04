@@ -112,6 +112,9 @@ desenvolvidos ao longo das aulas.
 ├── 📁 25 - Exceptions
 │   ├── ☕ ExemploArrayIndexOutOfBoundsException.java
 │   └── ☕ ExemploNullPointerExceptionInteger.java
+├── 📁 26 - Expressões Lambda
+│   ├── ☕ LambdaList.java
+│   └── ☕ LambdaSet.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
