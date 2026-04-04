@@ -105,6 +105,10 @@ desenvolvidos ao longo das aulas.
 ├── 📁 23 - Generics
 │   ├── ☕ CaixaTest.java
 │   └── ☕ CestoTest.java
+├── 📁 24 - Collections
+│   ├── ☕ ListExercise.java
+│   ├── ☕ MapExercise.java
+│   └── ☕ SetExercise.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
