@@ -120,6 +120,9 @@ desenvolvidos ao longo das aulas.
 ├── 📁 28 - Input & Output
 │   ├── ☕ IO.java
 │   └── ☕ NIO.java
+├── 📁 29 - Serialization
+│   ├── ☕ Contato.java
+│   ├── ☕ Serializacao.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
