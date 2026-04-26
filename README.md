@@ -137,6 +137,10 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ ControlesGetStyle.java
 │   ├── ☕ ControlesSetStyle.java
 │   └── 🎨 styles.css
+├── 📁 33 - Calculadora IMC
+│   └── ☕ CalculadoraIMC.java
+├── 📁 Calculadora Reajuste Salarial
+│   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
