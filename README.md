@@ -139,6 +139,8 @@ desenvolvidos ao longo das aulas.
 │   └── 🎨 styles.css
 ├── 📁 33 - Calculadora IMC
 │   └── ☕ CalculadoraIMC.java
+├── 📁 34- Relógio Digital
+│   └── ☕ RelogioDigital.java
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
