@@ -141,6 +141,9 @@ desenvolvidos ao longo das aulas.
 │   └── ☕ CalculadoraIMC.java
 ├── 📁 34- Relógio Digital
 │   └── ☕ RelogioDigital.java
+├── 📁 35 & 36 - Gerador de Senhas Seguras
+│   ├── ☕ GeradorDeSenhasSeguras.java
+│   └── ☕ GeradorDeSenhasSegurasGUI.java
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
