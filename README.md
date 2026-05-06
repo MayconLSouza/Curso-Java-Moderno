@@ -9,17 +9,18 @@ Boot](https://img.shields.io/badge/SpringBoot-Framework-brightgreen)
 Este repositório contém **exercícios, exemplos e projetos práticos**
 desenvolvidos durante o curso:
 
-**Java Moderno, Fácil de Seguir, com Spring Boot e Projetos**.
+**Java Moderno e Fácil de Seguir: Spring Boot, IA e Projetos**.
 
 O objetivo deste repositório é **registrar a evolução no aprendizado da
 linguagem Java** e servir como **portfólio de projetos**, demonstrando
 conhecimentos em:
 
--   Programação Orientada a Objetos
--   Desenvolvimento de APIs REST
--   Persistência de dados
--   Boas práticas de desenvolvimento
--   Uso de frameworks modernos do ecossistema Java
+- Programação Orientada a Objetos
+- Desenvolvimento de APIs REST com Spring Boot
+- Persistência de dados (JDBC, JPA/Hibernate)
+- Interfaces gráficas com JavaFX e CSS
+- Machine Learning com Weka
+- Boas práticas de desenvolvimento e versionamento (Git/GitHub)
 
 ------------------------------------------------------------------------
 
@@ -31,13 +32,13 @@ amplamente utilizadas no mercado.
 
 Durante o curso são explorados conceitos importantes como:
 
--   Sintaxe da linguagem
--   Estruturas de controle
--   Programação Orientada a Objetos
--   Manipulação de arquivos
--   Conexão com banco de dados
--   Criação de APIs REST com Spring Boot
--   Desenvolvimento de projetos práticos
+- Sintaxe, estruturas de controle, POO, arrays, coleções, exceptions
+- Programação funcional e expressões lambda
+- JavaFX (interface gráfica, CSS, mídia)
+- JDBC, Hibernate/JPA, SQLite
+- Spring Boot (REST APIs, CommandLineRunner, segurança CORS/CSRF)
+- Integração com Weka para classificação (Machine Learning)
+- Ferramentas: Maven, Postman, STS4, Git
 
 ------------------------------------------------------------------------
 
@@ -162,18 +163,17 @@ desenvolvidos ao longo das aulas.
 
 Principais tecnologias utilizadas durante o curso:
 
--   **Java**
--   **Spring Boot**
--   **JavaFX**
--   **Maven**
--   **JDBC**
--   **Hibernate / JPA**
--   **REST APIs**
--   **JSON**
--   **SQLite**
--   **Postman**
--   **Git**
--   **GitHub**
+- **Java 22**
+- **Spring Boot 3.4.3**
+- **JavaFX** + CSS
+- **Maven**
+- **JDBC** / **JPA / Hibernate**
+- **REST APIs** / **JSON**
+- **SQLite** (e H2 para testes)
+- **Postman**
+- **Weka** (Machine Learning)
+- **Git & GitHub**
+- **STS4** (Spring Tool Suite)
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ ecossistema Java.
 
 # 🔗 Link do Curso
 
-[Java Moderno, Fácil de Seguir, com Spring Boot e Projetos](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/)
+[Java Moderno e Fácil de Seguir: Spring Boot, IA e Projetos](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/)
