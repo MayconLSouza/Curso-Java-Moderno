@@ -146,6 +146,8 @@ desenvolvidos ao longo das aulas.
 │   └── ☕ GeradorDeSenhasSegurasGUI.java
 ├── 📁 37 - Jogo da Forca
 │   └── ☕ JogoDaForca.java
+├── 📁 38 - Mini Web Browser
+│   └── ☕ MiniWebBrowser.java
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
