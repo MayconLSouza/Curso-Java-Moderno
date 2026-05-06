@@ -144,6 +144,8 @@ desenvolvidos ao longo das aulas.
 ├── 📁 35 & 36 - Gerador de Senhas Seguras
 │   ├── ☕ GeradorDeSenhasSeguras.java
 │   └── ☕ GeradorDeSenhasSegurasGUI.java
+├── 📁 37 - Jogo da Forca
+│   └── ☕ JogoDaForca.java
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
