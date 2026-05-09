@@ -149,6 +149,8 @@ desenvolvidos ao longo das aulas.
 │   └── ☕ JogoDaForca.java
 ├── 📁 38 - Mini Web Browser
 │   └── ☕ MiniWebBrowser.java
+├── 📁 39 - Editor de Texto Básico
+│   └── ☕ EditorDeTexto.java
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
