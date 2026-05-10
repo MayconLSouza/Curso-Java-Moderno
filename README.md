@@ -151,6 +151,8 @@ desenvolvidos ao longo das aulas.
 │   └── ☕ MiniWebBrowser.java
 ├── 📁 39 - Editor de Texto Básico
 │   └── ☕ EditorDeTexto.java
+├── 📁 40 - Lista de Compras
+│   └── ☕ ListaDeCompras.java
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
