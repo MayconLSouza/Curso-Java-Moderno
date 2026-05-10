@@ -153,6 +153,8 @@ desenvolvidos ao longo das aulas.
 │   └── ☕ EditorDeTexto.java
 ├── 📁 40 - Lista de Compras
 │   └── ☕ ListaDeCompras.java
+├── 📁 41 - Sistema de Informações Climáticas em Tempo Real
+│   └── ☕ SistemaDeInformacoesClimaticasEmTempoReal.java
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
