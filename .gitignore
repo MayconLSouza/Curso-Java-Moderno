@@ -26,5 +26,8 @@
 hs_err_pid*
 replay_pid*
 
-#WeatherApi Key
+# WeatherApi Key
 api-key.txt
+
+# Database files
+*.db
