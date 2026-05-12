@@ -98,7 +98,7 @@ public class ProdutoDAO
 
     public void excluirPorId(int id)
     {
-        String sql = "DELETE FROM produto WHERE id_produto = ?";
+        String sql = "DELETE FROM produtos WHERE id_produto = ?";
 
         try (PreparedStatement stmt = CONEXAO_DB.prepareStatement(sql))
         {
