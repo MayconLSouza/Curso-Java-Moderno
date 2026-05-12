@@ -155,6 +155,12 @@ desenvolvidos ao longo das aulas.
 │   └── ☕ ListaDeCompras.java
 ├── 📁 41 - Sistema de Informações Climáticas em Tempo Real
 │   └── ☕ SistemaDeInformacoesClimaticasEmTempoReal.java
+├── 📁 44 - JDBC
+│   ├── ☕ ConexaoDB.java
+│   ├── ☕ CriadorTabela.java
+│   ├── ☕ Main.java
+│   ├── ☕ Produto.java
+│   └── ☕ ProdutoDAO.java
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
