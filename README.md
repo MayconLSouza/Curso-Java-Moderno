@@ -160,7 +160,9 @@ desenvolvidos ao longo das aulas.
 │   ├── ☕ CriadorTabela.java
 │   ├── ☕ Main.java
 │   ├── ☕ Produto.java
-│   └── ☕ ProdutoDAO.java
+│   ├── ☕ ProdutoDAO.java
+│   ├── ☕ ProdutoGUI.java
+│   └── 🎨 styles-produtos.css
 ├── 📁 Calculadora Reajuste Salarial
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── ⚙️ .gitignore
