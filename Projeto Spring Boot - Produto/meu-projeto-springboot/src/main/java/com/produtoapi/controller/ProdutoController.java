@@ -114,4 +114,29 @@ public class ProdutoController {
 	public List<Produto> buscarPorQuantidadeMaiorQue(@RequestParam Integer valor) {
 		return produtoService.findByQuantidadeGreaterThan(valor);
 	}
+
+	@GetMapping("/buscarPorStatus")
+	public List<Produto> buscarPorStatus(@RequestParam(required = false) String valor) {
+		return produtoService.findByStatus(valor);
+	}
+
+	@GetMapping("/buscarPorStatusNulos")
+	public List<Produto> buscarPorStatusNulos() {
+		return produtoService.findByStatusIsNull();
+	}
+
+	@GetMapping("/buscarPorPrecoEStatus")
+	public List<Produto> buscarPorPrecoEStatus(@RequestParam Double preco, @RequestParam String status) {
+		return produtoService.findByPrecoAndStatus(preco, status);
+	}
+
+	@GetMapping("/contarTotalDeProdutos")
+	public Long contarTotalDeProdutos() {
+		return produtoService.count();
+	}
+
+	@GetMapping("/buscarPorStatusPadrao")
+	public List<Produto> buscarPorStatusPadrao(@RequestParam(defaultValue = "Disponível") String valor) {
+		return produtoService.findByStatus(valor);
+	}
 }
