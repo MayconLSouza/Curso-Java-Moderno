@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.Query;
 import com.produtoapi.model.Produto;
 
 public interface ProdutoRepository extends JpaRepository<Produto, Long> {
-	
+
 	// Busca por nome
 	List<Produto> findByNome(String nome);
 
@@ -29,4 +29,11 @@ public interface ProdutoRepository extends JpaRepository<Produto, Long> {
 
 	@Query("SELECT SUM(p.preco) FROM Produto p")
 	Double findTotalPreco();
+
+	// Busca por quantidade
+	List<Produto> findByQuantidade(Integer quantidade);
+
+	List<Produto> findByQuantidadeLessThan(Integer quantidade);
+
+	List<Produto> findByQuantidadeGreaterThan(Integer quantidade);
 }
