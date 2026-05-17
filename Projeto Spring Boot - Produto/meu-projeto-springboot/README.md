@@ -18,12 +18,18 @@ This repository contains a comprehensive REST API application built with Spring 
 │   │   ├── 📁 java
 │   │   │   └── 📁 com
 │   │   │       └── 📁 produtoapi
+│   │   │           ├── 📁 client
+│   │   │           │   ├── ☕ CRUDJavaClientByCmd.java
+│   │   │           │   ├── 🌐 client-web-crud.html
+│   │   │           │   └── 🌐 client-web-listagem.html
 │   │   │           ├── 📁 controller
 │   │   │           │   └── ☕ ProdutoController.java
 │   │   │           ├── 📁 model
 │   │   │           │   └── ☕ Produto.java
 │   │   │           ├── 📁 repository
 │   │   │           │   └── ☕ ProdutoRepository.java
+│   │   │           ├── 📁 runner
+│   │   │           │   └── ☕ StartupRestClientRunner.java
 │   │   │           ├── 📁 service
 │   │   │           │   └── ☕ ProdutoService.java
 │   │   │           └── ☕ MeuProjetoSpringbootApplication.java
