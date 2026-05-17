@@ -35,6 +35,12 @@ public class ProdutoController
 		return produtoService.salvar(produto);
 	}
 	
+	@PostMapping("/salvarLista")
+	public List<Produto> salvarLista(@RequestBody List<Produto> produtos)
+	{
+		return produtoService.salvarLista(produtos);
+	}
+	
 	@PutMapping("/{id}")
 	public Produto atualizar(@PathVariable Long id, @RequestBody Produto produto)
 	{
