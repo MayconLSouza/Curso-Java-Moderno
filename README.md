@@ -167,6 +167,8 @@ desenvolvidos ao longo das aulas.
 │   └── ☕ CalculadoraReajusteSalarial.java
 ├── 📁 Projeto Spring Boot - Produto
 │   └── 📁 meu-projeto-springboot
+├── 📁 Projeto Spring Boot com IA - Sistema de Detecção de Fraude Bancária
+│   └── 📁 meu-projeto-ia
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
