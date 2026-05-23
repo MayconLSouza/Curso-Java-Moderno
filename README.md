@@ -4,7 +4,7 @@
 Boot](https://img.shields.io/badge/SpringBoot-Framework-brightgreen)
 ![Maven](https://img.shields.io/badge/Maven-BuildTool-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Este repositório contém **exercícios, exemplos e projetos práticos**
 desenvolvidos durante o curso:
